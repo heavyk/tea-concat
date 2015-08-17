@@ -14,6 +14,7 @@
       "node": "*"
     }
   , "main": "./index"
+  , "browser": "./lib/concat.js"
   , "scripts": {
       "test": "make test"
     }
